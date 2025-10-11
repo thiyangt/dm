@@ -1,0 +1,20 @@
+---
+title: "STA 529 2.0 Data Mining"
+---
+
+## Batch 4
+
+## Course Road Map
+
+### Week 1: 11/10/2025
+
+**Theory**
+
+[Introduction to data mining](https://thiyangt.github.io/DataMiningBook/intro.html)
+
+**Practical**
+
+[Exploring missing values](https://naniar.njtierney.com/)
+
+Your turn: Explore the missing values in the `DStidy` in
+[DSjobtracker](https://github.com/thiyangt/DSjobtracker)
