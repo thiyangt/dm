@@ -4,7 +4,7 @@
     "href": "index.html#course-road-map",
     "title": "STA 529 2.0 Data Mining",
     "section": "Course Road Map",
-    "text": "Course Road Map\n\nWeek 1: 11/10/2025\nTheory\nIntroduction to data mining\nPractical\nExploring missing values\nData quality analysis with dlookr\nYour turn: Explore the missing values in the DStidy in DSjobtracker\n\n\nWeek 2: 17/10/2025\nDecision trees: Slides\nPractical: inclass demo\nPractical-additional reading\nPractical-additional reading"
+    "text": "Course Road Map\n\nWeek 1: 11/10/2025\nTheory\nIntroduction to data mining\nPractical\nExploring missing values\nData quality analysis with dlookr\nYour turn: Explore the missing values in the DStidy in DSjobtracker\n\n\nWeek 2: 17/10/2025\nDecision trees: Slides\nPractical: inclass demo\nTutorial: Develop a model to predict the capacity of wind turbines.\nlibrary(tidyverse)\n\nturbines &lt;- read_csv(\"https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-10-27/wind-turbine.csv\")\nturbines\nset.seed(123)\nwind_split &lt;- initial_split(turbines_df, strata = turbine_capacity)\nwind_train &lt;- training(wind_split)\nwind_test &lt;- testing(wind_split)\nPractical-additional reading\nPractical-additional reading"
   },
   {
     "objectID": "about.html",
