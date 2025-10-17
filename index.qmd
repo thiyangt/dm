@@ -16,13 +16,16 @@ title: "STA 529 2.0 Data Mining"
 
 [Exploring missing values](https://naniar.njtierney.com/)
 
-Data quality analysis with dlookr 
+Data quality analysis with dlookr
 
 Your turn: Explore the missing values in the `DStidy` in [DSjobtracker](https://github.com/thiyangt/DSjobtracker)
 
-
 ### Week 2: 17/10/2025
 
-Decision trees: [Slides](https://thiyanga-datamining.netlify.app/L2/L2.pdf)
+Decision trees: [Slides](https://thiyangt.github.io/DataMiningBook/ch3.html)
 
-[Practical](https://bradleyboehmke.github.io/HOML/DT.html)
+Practical: inclass demo
+
+[Practical-additional reading](https://bradleyboehmke.github.io/HOML/DT.html)
+
+[Practical-additional reading](https://dataaspirant.com/decision-tree-classifier-implementation-in-r/)
