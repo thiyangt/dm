@@ -22,7 +22,7 @@ Your turn: Explore the missing values in the `DStidy` in [DSjobtracker](https://
 
 ### Week 2: 17/10/2025
 
-Decision trees: [Slides](https://thiyangt.github.io/DataMiningBook/ch3.html)
+[Decision tree](https://thiyangt.github.io/DataMiningBook/ch3.html)
 
 Practical: inclass demo
 
@@ -30,9 +30,9 @@ Tutorial: Develop a model to predict the capacity of wind turbines.
 
 ```r
 library(tidyverse)
-
 turbines <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-10-27/wind-turbine.csv")
 turbines
+
 set.seed(123)
 wind_split <- initial_split(turbines_df, strata = turbine_capacity)
 wind_train <- training(wind_split)
