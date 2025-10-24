@@ -28,7 +28,7 @@ Practical: inclass demo
 
 Tutorial: Develop a model to predict the capacity of wind turbines.
 
-```r
+``` r
 library(tidyverse)
 turbines <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-10-27/wind-turbine.csv")
 turbines
@@ -42,3 +42,9 @@ wind_test <- testing(wind_split)
 [Practical-additional reading](https://bradleyboehmke.github.io/HOML/DT.html)
 
 [Practical-additional reading](https://dataaspirant.com/decision-tree-classifier-implementation-in-r/)
+
+### Week 3: 25/10/2025
+
+Random forests algorithm
+
+Measures of performance
