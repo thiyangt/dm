@@ -24,7 +24,7 @@ Your turn: Explore the missing values in the `DStidy` in [DSjobtracker](https://
 
 [Decision tree](https://thiyangt.github.io/DataMiningBook/ch3.html)
 
-Practical: inclass demo
+Practical: inclass demo - fit decision trees
 
 Tutorial: Develop a model to predict the capacity of wind turbines.
 
@@ -43,8 +43,12 @@ wind_test <- testing(wind_split)
 
 [Practical-additional reading](https://dataaspirant.com/decision-tree-classifier-implementation-in-r/)
 
+[Gini Impurity and Entropy in Decision Tree](https://www.geeksforgeeks.org/machine-learning/gini-impurity-and-entropy-in-decision-tree-ml/)
+
 ### Week 3: 25/10/2025
 
-Random forests algorithm
+[Random forests algorithm]((https://thiyangt.github.io/DataMiningBook/ch3.html))
 
 Measures of performance
+
+Practical: tidymodels
